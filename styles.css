@@ -1,0 +1,15 @@
+body {
+    /*background-color: red;*/
+}
+
+.contact {
+    background: grey;
+    margin: 0.5rem;
+    padding: 0.5rem;
+    flex-grow: 1;
+}
+
+#contact-list {
+    display: flex;
+    flex-wrap: wrap;
+}
